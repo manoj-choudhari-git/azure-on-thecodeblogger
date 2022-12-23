@@ -1,0 +1,29 @@
+[
+	{
+		"key": "TestApi:GetEndpoint:Message",
+		"value": "Hello",
+		"contentType": "the-content-type",
+		"tags": {
+			"environment": "dev",
+			"region": "India",
+		},
+	},
+	{
+		"key": "TestApi:PostEndpoint:Message",
+		"value": "Good Morning",
+		"contentType": "the-content-type",
+		"tags": {
+			"environment": "dev",
+			"region": "India",
+		},
+	},
+	{
+		"key": "TestApi:KeyWithLabel$sampleLabel",
+		"value": "Value For Key With Label",
+		"contentType": "the-content-type",
+		"tags": {
+			"environment": "dev",
+			"region": "India",
+		},
+	}
+]
