@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FeatureFlagIsolatedFunctionsApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7263",
+      "launchBrowser": false
+    }
+  }
+}
