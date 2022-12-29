@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFNi64Lf1NE3Nt62i6IrG5/mRMQaC+LSMUynxa4RERhMhE5f0l2b0bZ77Dq3KbcurSMR3VkzW2Q1KzukU3/21g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manoj\\source\\repos\\FeatureFlagConsoleDemo\\FeatureFlagConsoleDemo\\FeatureFlagConsoleDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj\\.nuget\\packages\\azure.core\\1.23.0\\azure.core.1.23.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\azure.data.appconfiguration\\1.2.0\\azure.data.appconfiguration.1.2.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\azure.messaging.eventgrid\\4.7.0\\azure.messaging.eventgrid.4.7.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\azure.security.keyvault.secrets\\4.3.0\\azure.security.keyvault.secrets.4.3.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.18\\microsoft.extensions.configuration.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.18\\microsoft.extensions.configuration.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.configuration.azureappconfiguration\\5.2.0\\microsoft.extensions.configuration.azureappconfiguration.5.2.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.18\\microsoft.extensions.configuration.binder.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.logging\\3.1.18\\microsoft.extensions.logging.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.18\\microsoft.extensions.logging.abstractions.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.options\\3.1.18\\microsoft.extensions.options.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.18\\microsoft.extensions.primitives.3.1.18.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.featuremanagement\\2.5.1\\microsoft.featuremanagement.2.5.1.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
