@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@azure/app-configuration": "^1.3.1"
+  }
+}
